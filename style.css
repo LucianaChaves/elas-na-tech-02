@@ -112,3 +112,16 @@ body{
 .config-img:hover{
   transform: scale(1.2);
 }
+
+footer{
+
+padding-top: 60px;
+margin: auto;
+text-align: center;
+padding-bottom: 20px;
+}
+
+footer:hover{
+  transition: width 2s, height 4s;
+  }
+  
