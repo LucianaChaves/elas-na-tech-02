@@ -77,13 +77,13 @@ body{
 
 
 .article{
-  background-color: white;
+  background-color: #f3e4e5;
   height: 100px;
   width: 90%;
   margin: auto;
   margin-top: 30px;
-  padding: 10px;
-  text-align:right;
+  padding-top: 10px;
+  text-align:start;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
@@ -96,6 +96,7 @@ body{
   text-align:center;
   margin: auto;
 
+
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
@@ -105,5 +106,9 @@ body{
   height: 70px;
   float: left;
   padding-right: 10px;
-  transform: scaleX(-1);
+
+}
+
+.config-img:hover{
+  transform: scale(1.2);
 }
