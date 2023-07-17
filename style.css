@@ -1,0 +1,107 @@
+body{
+
+    background-color: #eeb6b6;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cabecalho {
+  background-image: url(images/edpoe.png);
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.div-cabecalho{
+
+    margin: 100px auto 0 auto;
+    width: 80%;
+    text-align: center;
+    color:white;
+}
+
+.div-cabecalho h1{
+ font-size: 60px;
+ text-transform: uppercase;
+ text-shadow: 2px 2px rgba(0, 0, 0, 0.5)
+}
+
+.div-cabecalho a{
+  background-color: #C6BBBF;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  border-radius: 8px;
+  text-transform: uppercase;
+  
+}
+
+.div-cabecalho a:hover{
+  background-color: white;
+  color: #F2C166;
+
+}
+
+.cabecalho nav ul {
+  margin: 25px 40px 0 0;
+  text-align: right;
+
+}
+
+.cabecalho nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin-left: 15px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 12px;
+
+}
+
+.cabecalho a{
+  color: rgb(47, 44, 44);
+  text-decoration: none;
+  font-weight: bold;
+  background-color: #F2C166;
+  padding: 5px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  
+}
+
+.cabecalho a:hover{
+  background-color: white;
+  color: #f45b5b84;
+}
+
+
+.article{
+  background-color: white;
+  height: 100px;
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+  padding: 10px;
+  text-align:right;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+.titulo{
+  background-color: #f2c16690;
+  height: 20px;
+  font-size: 15px;
+  width: 85%;
+  text-align:center;
+  margin: auto;
+
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+.paragrafo{
+float: left;
+}
+
+
