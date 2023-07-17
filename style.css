@@ -100,8 +100,10 @@ body{
 
 }
 
-.paragrafo{
-float: left;
+
+.config-img{
+  height: 70px;
+  float: left;
+  padding-right: 10px;
+  transform: scaleX(-1);
 }
-
-
