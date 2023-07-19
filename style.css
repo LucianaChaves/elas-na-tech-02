@@ -121,7 +121,6 @@ text-align: center;
 padding-bottom: 20px;
 }
 
-footer:hover{
-  transition: width 2s, height 4s;
-  }
-  
+.paragrafo{
+  background-color: aqua;
+}
